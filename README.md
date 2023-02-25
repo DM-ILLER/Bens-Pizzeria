@@ -1,1 +1,3 @@
 # Bens-Pizzeria
+
+The client Ben is opening up a new pizzeria in his town. It won't be a dine-in, just take-out and delivery. He has given us a project brief. The first part requires us to build a tailor-made bespoke database for his business that will allow him to store all of the important information and data that his business generates. This will in turn allow Ben to to monitor business performance in dashboard that will build later on. They way we are going to approach this task of designing our database in the tables in it is to speck out all of the fields for the data we want to collect. Then we'll go about the process of normalizing the data, adding more related tables, and defining the table relationships.
